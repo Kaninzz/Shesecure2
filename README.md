@@ -5,7 +5,7 @@
 # SheSecure Project
 
 ## Description
-The SheSecure Project is a mobile application designed to enhance personal safety by enabling users to create and join secure circles where members can share their live locations with each other. The app allows users to create circles, generate invite codes, join circles, and view the real-time locations of all members within their circles.
+The SheSecure Project is a user-friendly mobile application designed to enhance personal safety by enabling users to create and join secure circles where members can share their live locations with each other. The app allows users to create circles, generate invite codes, join circles,chat within circles, send SOS alerts and view the real-time locations of all members within their circles.
 
 ## Project Setup/Installation Instructions
 
