@@ -97,6 +97,9 @@ The SheSecure Project is a user-friendly mobile application designed to enhance 
 - **Creating a Circle**: Navigate to the "Create Circle" screen, enter a circle name, and generate an invite code.
 - **Joining a Circle**: Navigate to the "Join Circle" screen, enter an invite code, and join the circle.
 - **Viewing Locations**: On the home screen, view the live locations of circle members on the map.
+- **Sending SOS alerts**:On the homescreen,there is an SOS button used to send SOS alerts.
+- **Chatting within a circle**:On the homescreen,there is a chat area where circle members can chat.
+  
 
 ### Input/Output
 - **Input**: User information (name, email, password), circle name, invite code, and location data (latitude, longitude).
