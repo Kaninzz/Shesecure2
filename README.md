@@ -81,14 +81,14 @@ The SheSecure Project is a mobile application designed to enhance personal safet
     Ensure the backend server is running:
     ```bash
     cd backend
-    node index.js
+       this is to start the backend server  ( node index.js)
     ```
 
 2. **Frontend App**
     Ensure the Expo server is running:
     ```bash
     cd frontend
-    npx expo start
+     this is to start the frontend server and the  metro bundler (npx expo start)
     ```
 
 3. Use the Expo Go app on your mobile device to scan the QR code and load the app.
